@@ -26,7 +26,7 @@ setup(
         'console_scripts': [
             'line_follow = line_following.line_follow_node:main',
             'line_guide = line_following.line_guide_node:main',
-
+            'magnetic_reader = line_following.magnetic_reader:main',
         ],
     },
 )
